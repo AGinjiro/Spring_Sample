@@ -1,4 +1,4 @@
-package com.example.demo.config;
+package com.example.demo.Config;
 
 import org.dozer.DozerBeanMapper;
 import org.dozer.Mapper;
